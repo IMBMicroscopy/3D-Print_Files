@@ -3,7 +3,7 @@
 Pecon Black top knob requires a 5mm long brass threaded insert for M6 thread with an M6x20 setscrew  
 Pecon Blue knob requires a 5mm long brass threaded insert for M4 thread  
   
-Universal Insert adapter requires countersunk M3 x 8mm screws  
+Universal Insert adapter requires countersunk M3 x 10mm screws  
   Adapt Marzhauser Universal slide insert to work with Pecon Piezo Z stage which mounts on top of the Marzhauser stage  
 
 Definite Focus2 2 hole slider  
